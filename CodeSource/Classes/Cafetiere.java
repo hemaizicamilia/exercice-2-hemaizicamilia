@@ -1,6 +1,6 @@
-package Exerciece2;
+package Exo2PartieB;
 
-public class Cafetiere implements Connectable{
+public class Cafetiere implements Connectable {
 	
 	String nom ;
 
@@ -19,8 +19,6 @@ public class Cafetiere implements Connectable{
 
 	public void setNom(String nom) {
 		this.nom = nom;
-	}
-	
-	
 
+}
 }

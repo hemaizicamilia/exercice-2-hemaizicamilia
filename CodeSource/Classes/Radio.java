@@ -1,4 +1,4 @@
-package Exerciece2;
+package Exo2PartieB;
 
 public class Radio implements Connectable{
 
