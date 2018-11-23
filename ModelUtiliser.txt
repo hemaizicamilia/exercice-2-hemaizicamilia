@@ -1,0 +1,1 @@
+dans la question 2 on a utiliser le pattern factory methode.
